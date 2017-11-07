@@ -31,3 +31,5 @@ if (x-10>100) {
   } else {
   print(TRUE)
   }
+
+#the last logical statement is not logical 
