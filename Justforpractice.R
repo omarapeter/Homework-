@@ -1,3 +1,4 @@
+
 #I just want tp practice with this file
 x<-41
 y<-23
@@ -25,3 +26,8 @@ if(y+x<100) {
   print(FALSE)
 }
 
+if (x-10>100) {
+  print(FALSE)
+  } else {
+  print(TRUE)
+  }
